@@ -9,8 +9,3 @@ let yourAge = ?
 if (yourAge = 18) {
     = "WOW vi er jo lige gamle i år!";
   }
-
-
-
-// Hvordan skal jeg lave en udefineret værdi når man ikke kan ændre den herinde?
-  
